@@ -1,0 +1,9 @@
+table {
+   border: 1px solid OliveDrab;
+}
+
+td {
+   border: 1px solid OliveDrab;
+}
+ td {padding: 10px;}
+table { margin:0 auto; }
